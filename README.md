@@ -6,6 +6,9 @@
 - 18120280 - Trần Đức Anh
 
 **File quản lý tiến độ
-https://docs.google.com/spreadsheets/d/1bTkgiApbI1ihjRuQZVULhQlVu0fJmm5_D-R7IfRUEHI/edit?usp=sharing
+
+- https://docs.google.com/spreadsheets/d/1bTkgiApbI1ihjRuQZVULhQlVu0fJmm5_D-R7IfRUEHI/edit?usp=sharing
 
 **Colab làm việc
+
+- https://colab.research.google.com/drive/1KxOtw7R8FAfk4D3_RWdVvTSPp64BVx45
